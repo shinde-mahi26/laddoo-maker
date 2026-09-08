@@ -1,0 +1,818 @@
+[
+  {
+    "id": "RBT-01",
+    "name": "Folded base pan",
+    "group": "Frame",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 2 mm",
+    "dimensions": [
+      600.0,
+      400.0,
+      2.0
+    ],
+    "description": "600 × 400 mm footprint. Folded edges and welded corners; four M8 levelling feet. Detail bends and drain slope before fabrication.",
+    "image": "RBT-01.png",
+    "reference": "references/RBT-01.png"
+  },
+  {
+    "id": "RBT-020",
+    "name": "Levelling foot",
+    "group": "Frame",
+    "status": "CAD-guided illustration",
+    "quantity": 4,
+    "material": "Silicone pad + SS304 M8 stud",
+    "dimensions": [
+      38.0,
+      38.0,
+      25.0
+    ],
+    "description": "Four individually adjustable feet; target bench rating ≥40 kg. Pad and stud shown as one envelope.",
+    "image": "RBT-020.png",
+    "reference": "references/RBT-020.png"
+  },
+  {
+    "id": "RBT-030",
+    "name": "Rear structural upright",
+    "group": "Frame",
+    "status": "CAD-guided illustration",
+    "quantity": 2,
+    "material": "SS304 tube 30 × 30 × 2",
+    "dimensions": [
+      30.0,
+      30.0,
+      430.0
+    ],
+    "description": "TIG welded dry-side support. Frame deflection and weld fatigue require physical verification.",
+    "image": "RBT-030.png",
+    "reference": "references/RBT-030.png"
+  },
+  {
+    "id": "RBT-04",
+    "name": "Rear cross member",
+    "group": "Frame",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304 tube 30 × 30 × 2",
+    "dimensions": [
+      550.0,
+      30.0,
+      30.0
+    ],
+    "description": "Continuous rear frame; weld fixture required.",
+    "image": "RBT-04.png",
+    "reference": "references/RBT-04.png"
+  },
+  {
+    "id": "RBT-05",
+    "name": "Dry service enclosure",
+    "group": "Electrical",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 2 mm",
+    "dimensions": [
+      550.0,
+      100.0,
+      190.0
+    ],
+    "description": "Rear compartment: 24 VDC 240 W PSU, motor drivers, controller, safety relay and terminals. Envelopes, not selected supplier mounting patterns.",
+    "image": "RBT-05.png",
+    "reference": "references/RBT-05.png"
+  },
+  {
+    "id": "RBT-06",
+    "name": "Food / drive partition",
+    "group": "Frame",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 2 mm",
+    "dimensions": [
+      560.0,
+      2.0,
+      240.0
+    ],
+    "description": "Sealed rear partition. Moving penetrations require removable boots and catch drains; no bearing exposed over food.",
+    "image": "RBT-06.png",
+    "reference": "references/RBT-06.png"
+  },
+  {
+    "id": "RBT-10",
+    "name": "Open hopper cassette",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 1.2 mm",
+    "dimensions": [
+      210.0,
+      190.0,
+      145.0
+    ],
+    "description": "Approximately 3.4 L geometric volume; 2 L working fill. Open throat 95 × 110 mm. Polished food side Ra target ≤0.8 µm. Removable radiused seams.",
+    "image": "RBT-10.png",
+    "reference": "references/RBT-10.png"
+  },
+  {
+    "id": "RBT-11",
+    "name": "Hopper lid",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Clear food-contact polycarbonate",
+    "dimensions": [
+      216.0,
+      196.0,
+      3.0
+    ],
+    "description": "Lift-off lid with coded interlock. No reach into belt throat while enabled; supplier food-contact declaration required.",
+    "image": "RBT-11.png",
+    "reference": "references/RBT-11.png"
+  },
+  {
+    "id": "RBT-12",
+    "name": "Slow bridge-breaker shaft",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS316L",
+    "dimensions": [
+      12.0,
+      12.0,
+      105.0
+    ],
+    "description": "Quick-release shaft; external bearings and lip seals behind splash barrier. Intermittent 5–15 rpm; not a kneader.",
+    "image": "RBT-12.png",
+    "reference": "references/RBT-12.png"
+  },
+  {
+    "id": "RBT-130",
+    "name": "Flexible sweep paddle",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 2,
+    "material": "Platinum-cured food-contact silicone",
+    "dimensions": [
+      80.0,
+      8.0,
+      15.0
+    ],
+    "description": "Soft replaceable blade. Clearance must be tuned to avoid crushing motichoor and trapping peanuts.",
+    "image": "RBT-130.png",
+    "reference": "references/RBT-130.png"
+  },
+  {
+    "id": "RBT-14",
+    "name": "Agitator gearmotor",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Aluminium motor shell, isolated dry",
+    "dimensions": [
+      56.0,
+      56.0,
+      65.0
+    ],
+    "description": "24 V BLDC, 20 W, output 5–15 rpm, ≥3 N·m continuous; torque-limited. Coupler and sanitary shaft seal procurement required.",
+    "image": "RBT-14.png",
+    "reference": "references/RBT-14.png"
+  },
+  {
+    "id": "RBT-15",
+    "name": "Metering belt cassette",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Food-contact PU endless belt, 2 mm",
+    "dimensions": [
+      210.0,
+      100.0,
+      24.0
+    ],
+    "description": "210 × 100 mm cassette. 0–35 mm/s coarse/fine feed. Belt may smear besan or bridge sticky jaggery; bench trial is required. Detachable scraper and catch tray.",
+    "image": "RBT-15.png",
+    "reference": "references/RBT-15.png"
+  },
+  {
+    "id": "RBT-160",
+    "name": "Belt roller",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 2,
+    "material": "SS304 tube / shaft",
+    "dimensions": [
+      20.0,
+      106.0,
+      20.0
+    ],
+    "description": "Ø20 × 106 mm roller. External sealed bearings and tool-free tension release. Two rollers; return side contained.",
+    "image": "RBT-160.png",
+    "reference": "references/RBT-160.png"
+  },
+  {
+    "id": "RBT-17",
+    "name": "Belt gearmotor",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Aluminium motor shell",
+    "dimensions": [
+      55.0,
+      55.0,
+      55.0
+    ],
+    "description": "24 V BLDC 25 W; output 0–35 rpm, ≥1 N·m continuous. 10 mm roller radius. Encoder, current limit, stopped belt while weighing.",
+    "image": "RBT-17.png",
+    "reference": "references/RBT-17.png"
+  },
+  {
+    "id": "RBT-18",
+    "name": "Removable belt scraper",
+    "group": "Dosing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Food-contact PEEK",
+    "dimensions": [
+      3.0,
+      96.0,
+      22.0
+    ],
+    "description": "Replaceable thin edge; removes trailing smear into weigh cup. Maximum particle size initially ≤4 mm.",
+    "image": "RBT-18.png",
+    "reference": "references/RBT-18.png"
+  },
+  {
+    "id": "RBT-20",
+    "name": "Tipping weigh cup",
+    "group": "Weighing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 1.5 mm wall / 2 mm floor",
+    "dimensions": [
+      96.0,
+      96.0,
+      60.0
+    ],
+    "description": "Ø96 × 60 mm, 0.40 L. Tares empty before every portion; complete tip cradle and motor sit on cell. 2 g / 3 g provisional accuracy targets, not validated.",
+    "image": "RBT-20.png",
+    "reference": "references/RBT-20.png"
+  },
+  {
+    "id": "RBT-21",
+    "name": "Single point load cell",
+    "group": "Weighing",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Anodized aluminium, dry cover",
+    "dimensions": [
+      80.0,
+      20.0,
+      15.0
+    ],
+    "description": "2 kg capacity; 24-bit ADC. Fixed end rear, live end cup cradle. Flexible slack wires, no hoses or stiff parallel force path. Overload stops set to cell datasheet.",
+    "image": "RBT-21.png",
+    "reference": "references/RBT-21.png"
+  },
+  {
+    "id": "RBT-22",
+    "name": "Weighed cradle arm",
+    "group": "Weighing",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304",
+    "dimensions": [
+      14.0,
+      78.0,
+      8.0
+    ],
+    "description": "Tip motor and cup supported at live cell end. Bearings, fasteners, motor torque reaction all on weighed structure. Shown as concept bracket.",
+    "image": "RBT-22.png",
+    "reference": "references/RBT-22.png"
+  },
+  {
+    "id": "RBT-23",
+    "name": "Weigh tip actuator",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Geared servo, aluminium dry shell",
+    "dimensions": [
+      40.0,
+      40.0,
+      48.0
+    ],
+    "description": "24 V geared position servo 15 W; ≥1.5 N·m continuous. Tip 150°, return home, then tare. No weighing during tip motion.",
+    "image": "RBT-23.png",
+    "reference": "references/RBT-23.png"
+  },
+  {
+    "id": "RBT-300",
+    "name": "Shuttle guide rail",
+    "group": "Transfer",
+    "status": "Proposed detail",
+    "quantity": 2,
+    "material": "Hardened steel, sealed dry shroud",
+    "dimensions": [
+      270.0,
+      12.0,
+      12.0
+    ],
+    "description": "MGN12-class rail envelope; stainless bellows/cover needed. Two blocks per rail. Travel 160 mm. Lubricant isolated from food.",
+    "image": "RBT-300.png",
+    "reference": "references/RBT-300.png"
+  },
+  {
+    "id": "RBT-31",
+    "name": "Shuttle carriage",
+    "group": "Transfer",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304",
+    "dimensions": [
+      100.0,
+      116.0,
+      8.0
+    ],
+    "description": "Timing-belt drive under catch deck; belt clamp and limit flags require supplier detail.",
+    "image": "RBT-31.png",
+    "reference": "references/RBT-31.png"
+  },
+  {
+    "id": "RBT-32",
+    "name": "Shuttle timing belt",
+    "group": "Transfer",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Steel-cord polyurethane, dry",
+    "dimensions": [
+      260.0,
+      8.0,
+      3.0
+    ],
+    "description": "HTD 3M, 9 mm width procurement target; diagram represents belt run. 20-tooth pulley radius 9.55 mm. Tensioner and return run detailed at procurement.",
+    "image": "RBT-32.png",
+    "reference": "references/RBT-32.png"
+  },
+  {
+    "id": "RBT-33",
+    "name": "Shuttle motor",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Closed-loop stepper / aluminium",
+    "dimensions": [
+      42.0,
+      48.0,
+      42.0
+    ],
+    "description": "24 V NEMA17 closed-loop stepper; ≥0.3 N·m at 200 rpm, 30 W budget. 160 mm stroke in 1.2 s; accel 0.5 m/s². Home + end limit sensors.",
+    "image": "RBT-33.png",
+    "reference": "references/RBT-33.png"
+  },
+  {
+    "id": "RBT-34",
+    "name": "Lower tilt bearing support",
+    "group": "Transfer",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304",
+    "dimensions": [
+      16.0,
+      16.0,
+      54.0
+    ],
+    "description": "Rear support clear of every food cavity. Trunnion axis Z225; rear yoke and shaft must connect to cup exterior. CAD support envelope; final bearing and shaft fits need mechanical detail.",
+    "image": "RBT-34.png",
+    "reference": "references/RBT-34.png"
+  },
+  {
+    "id": "RBT-35",
+    "name": "Lower forming insert Ø46",
+    "group": "Forming",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Food-contact POM-C",
+    "dimensions": [
+      56.0,
+      56.0,
+      27.7
+    ],
+    "description": "Split spherical cavity. Exchange matched pairs Ø36–64 in 2 mm steps. 0.6 mm equator relief avoids hard rim collision; flash/seam and sticking require food trials.",
+    "image": "RBT-35.png",
+    "reference": "references/RBT-35.png"
+  },
+  {
+    "id": "RBT-36",
+    "name": "Lower tip servo",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Geared servo, aluminium dry shell",
+    "dimensions": [
+      50.0,
+      48.0,
+      50.0
+    ],
+    "description": "24 V 20 W, ≥2 N·m continuous; 120° outward tilt to eject. Home sensor; upper head must be raised before tip. Flexible cable carrier.",
+    "image": "RBT-36.png",
+    "reference": "references/RBT-36.png"
+  },
+  {
+    "id": "RBT-40",
+    "name": "Press support arm",
+    "group": "Forming",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304 rectangular section",
+    "dimensions": [
+      32.0,
+      180.0,
+      30.0
+    ],
+    "description": "Rear support to press. 150 N design force. Deflection and resonances unverified; hard stop prevents insert contact.",
+    "image": "RBT-40.png",
+    "reference": "references/RBT-40.png"
+  },
+  {
+    "id": "RBT-41",
+    "name": "Head linear actuator",
+    "group": "Drives",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "24 V screw actuator / steel and aluminium",
+    "dimensions": [
+      58.0,
+      64.0,
+      145.0
+    ],
+    "description": "50 W budget; 150 N continuous at ≥40 mm/s; 95 mm stroke. 4 mm lead, efficiency assumption 0.35. Encoder + two limits + load feedback; self-locking not assumed.",
+    "image": "RBT-41.png",
+    "reference": "references/RBT-41.png"
+  },
+  {
+    "id": "RBT-42",
+    "name": "Head push rod",
+    "group": "Forming",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS316L with sanitary bellows",
+    "dimensions": [
+      16.0,
+      16.0,
+      40.0
+    ],
+    "description": "Rod retracts 95 mm. Bellows not represented. Anti-rotation guides, brake or positive retention required; do not rely on software to hold head.",
+    "image": "RBT-42.png",
+    "reference": "references/RBT-42.png"
+  },
+  {
+    "id": "RBT-43",
+    "name": "Compliant head load module",
+    "group": "Forming",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "SS304 + spring steel in sealed boot",
+    "dimensions": [
+      40.0,
+      40.0,
+      16.0
+    ],
+    "description": "0–200 N compression sensor; 5 N/mm spring, 2–16 mm usable deflection. Adjustable 10–80 N trial force, hard cutoff 120 N. Spring and sensor shown as envelope.",
+    "image": "RBT-43.png",
+    "reference": "references/RBT-43.png"
+  },
+  {
+    "id": "RBT-44",
+    "name": "Upper forming insert Ø46",
+    "group": "Forming",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Food-contact POM-C",
+    "dimensions": [
+      56.0,
+      56.0,
+      27.7
+    ],
+    "description": "Matched upper cavity, lifted 95 mm in home pose. Static split-mould compression; no claim of hand-rolled texture. No orbital cup interference.",
+    "image": "RBT-44.png",
+    "reference": "references/RBT-44.png"
+  },
+  {
+    "id": "RBT-45",
+    "name": "Matched upper tool spacer",
+    "group": "Forming",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304",
+    "dimensions": [
+      24.0,
+      24.0,
+      12.0
+    ],
+    "description": "Recipe-tool-specific spacer connects solid outside of upper cup to head module. Length 35 minus cavity radius, mm. Provided for every tool size; retained/keyed connection still requires detailing.",
+    "image": "RBT-45.png",
+    "reference": "references/RBT-45.png"
+  },
+  {
+    "id": "RBT-50",
+    "name": "Output chute",
+    "group": "Output",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304, 1.2–2 mm",
+    "dimensions": [
+      118.05,
+      105.0,
+      70.65
+    ],
+    "description": "Open chute with sidewalls. Removable silicone liner softens drop. Ball exit/release needs sticky-mixture testing; no simulated adhesion model.",
+    "image": "RBT-50.png",
+    "reference": "references/RBT-50.png"
+  },
+  {
+    "id": "RBT-51",
+    "name": "Collection tray",
+    "group": "Output",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "SS304",
+    "dimensions": [
+      110.0,
+      150.0,
+      16.5
+    ],
+    "description": "Lift-out tray. Stop on tray-full sensor. No collection reach into moving cup; front interlocked cover.",
+    "image": "RBT-51.png",
+    "reference": "references/RBT-51.png"
+  },
+  {
+    "id": "RBT-60",
+    "name": "Front lift-off guard",
+    "group": "Guarding",
+    "status": "CAD-guided illustration",
+    "quantity": 1,
+    "material": "Clear polycarbonate, 3 mm",
+    "dimensions": [
+      584.0,
+      3.0,
+      430.0
+    ],
+    "description": "Interlocked clear guard; concept panel, not a validated reach barrier. Hinges/latches and complete side guards required before powered operation.",
+    "image": "RBT-60.png",
+    "reference": "references/RBT-60.png"
+  },
+  {
+    "id": "RBT-61",
+    "name": "User interface enclosure",
+    "group": "Electrical",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "ABS PC dry enclosure",
+    "dimensions": [
+      130.0,
+      36.0,
+      65.0
+    ],
+    "description": "30 / 50 / 100 g presets; recipe, density, tare, jog, cleaning lockout. Splash-resistant membrane controls.",
+    "image": "RBT-61.png",
+    "reference": "references/RBT-61.png"
+  },
+  {
+    "id": "RBT-62",
+    "name": "Emergency stop",
+    "group": "Electrical",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Red polymer + electrical switch",
+    "dimensions": [
+      34.0,
+      18.0,
+      34.0
+    ],
+    "description": "Latching E-stop through safety relay cuts drive enable/power. Independent manual reset; no automatic restart. Exact safety circuit requires electrical engineering review.",
+    "image": "RBT-62.png",
+    "reference": "references/RBT-62.png"
+  },
+  {
+    "id": "RBT-63",
+    "name": "24 V power supply",
+    "group": "Electrical",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "Enclosed AC/DC supply",
+    "dimensions": [
+      180.0,
+      55.0,
+      42.0
+    ],
+    "description": "230 VAC 50 Hz input, 24 V 10 A / 240 W output. Target ≥20% electrical reserve. Earthed metal chassis, fused inlet, segregated mains. No heater or compressor.",
+    "image": "RBT-63.png",
+    "reference": "references/RBT-63.png"
+  },
+  {
+    "id": "RBT-64",
+    "name": "Control and safety module",
+    "group": "Electrical",
+    "status": "Proposed detail",
+    "quantity": 1,
+    "material": "FR4 PCB + DIN rail modules",
+    "dimensions": [
+      150.0,
+      60.0,
+      45.0
+    ],
+    "description": "Controller, ADC, servo drivers and monitored safety relay. Shown as procurement envelope; schematic and cable schedule in design document.",
+    "image": "RBT-64.png",
+    "reference": "references/RBT-64.png"
+  },
+  {
+    "id": "P-01",
+    "name": "Socket-head cap screw",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-01.png",
+    "reference": null
+  },
+  {
+    "id": "P-02",
+    "name": "Hex nut",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-02.png",
+    "reference": null
+  },
+  {
+    "id": "P-03",
+    "name": "Flat washer",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-03.png",
+    "reference": null
+  },
+  {
+    "id": "P-04",
+    "name": "Sealed radial bearing",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-04.png",
+    "reference": null
+  },
+  {
+    "id": "P-05",
+    "name": "Shaft lip seal",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-05.png",
+    "reference": null
+  },
+  {
+    "id": "P-06",
+    "name": "Flexible shaft coupling",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-06.png",
+    "reference": null
+  },
+  {
+    "id": "P-07",
+    "name": "Linear guide block",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-07.png",
+    "reference": null
+  },
+  {
+    "id": "P-08",
+    "name": "Timing pulley",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-08.png",
+    "reference": null
+  },
+  {
+    "id": "P-09",
+    "name": "Compression spring",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-09.png",
+    "reference": null
+  },
+  {
+    "id": "P-10",
+    "name": "Guard hinge",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-10.png",
+    "reference": null
+  },
+  {
+    "id": "P-11",
+    "name": "Captive latch",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-11.png",
+    "reference": null
+  },
+  {
+    "id": "P-12",
+    "name": "Proximity sensor",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-12.png",
+    "reference": null
+  },
+  {
+    "id": "P-13",
+    "name": "Protective bellows",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-13.png",
+    "reference": null
+  },
+  {
+    "id": "P-14",
+    "name": "Wiring harness",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-14.png",
+    "reference": null
+  },
+  {
+    "id": "P-15",
+    "name": "Levelling stud",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-15.png",
+    "reference": null
+  },
+  {
+    "id": "P-16",
+    "name": "Trunnion shaft",
+    "group": "Small hardware",
+    "status": "Proposed hardware",
+    "quantity": null,
+    "material": "Proposed; final specification needed",
+    "dimensions": null,
+    "description": "Generic proposed component. Size, quantity, material grade and fit are not yet specified in the CAD. This is not a purchasing or fabrication specification.",
+    "image": "P-16.png",
+    "reference": null
+  }
+]

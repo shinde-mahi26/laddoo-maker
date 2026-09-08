@@ -1,0 +1,277 @@
+[
+  {
+    "id": "01",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "020",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "030",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "04",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "05",
+    "prompt": "Create one separate photorealistic studio component illustration of Dry service enclosure, RBT-05. Reference image fixes geometry and proportions: a closed hollow rectangular SS304 enclosure, outer size 550 x 100 x 190 mm, no cutouts or hinges are modelled; preserve plain outer shape. Keep exact topology, no added mechanical features. Whole isolated item, same three-quarter view, off-white #f4f3ef background, soft shadow, fine realistic material surface, square, generous margins. No text, labels, annotations or other objects. CAD-informed concept illustration.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "06",
+    "prompt": "Create one separate photorealistic studio component illustration of Food-drive partition, RBT-06. Reference image fixes geometry and proportions: a thin flat SS304 rectangular vertical sheet, 560 x 240 x 2 mm, no holes. Keep exact topology, no added mechanical features. Whole isolated item, same three-quarter view, off-white #f4f3ef background, soft shadow, fine realistic material surface, square, generous margins. No text, labels, annotations or other objects. CAD-informed concept illustration.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "10",
+    "prompt": "One separate photorealistic product illustration of open tapered stainless-steel hopper, RBT-10. Exact CAD reference fixes shape and proportions. Follow reference: four tapered thin walls, open top and narrow open bottom, no lid, flange, handle or holes. SS304 satin sheet. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "11",
+    "prompt": "Create one separate photorealistic studio component illustration of Hopper lid, RBT-11. Reference image fixes geometry and proportions: a flat clear polycarbonate rectangular plate 216 x 196 x 3 mm, no knobs, no handles, no holes. Keep exact topology, no added mechanical features. Whole isolated item, same three-quarter view, off-white #f4f3ef background, soft shadow, fine realistic material surface, square, generous margins. No text, labels, annotations or other objects. CAD-informed concept illustration.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "12",
+    "prompt": "Create one separate photorealistic studio component illustration of Bridge-breaker shaft, RBT-12. Reference image fixes geometry and proportions: a plain polished SS316L rod diameter 12 mm, length105 mm, NO paddles, threads, flats or bearings. Keep exact topology, no added mechanical features. Whole isolated item, same three-quarter view, off-white #f4f3ef background, soft shadow, fine realistic material surface, square, generous margins. No text, labels, annotations or other objects. CAD-informed concept illustration.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "130",
+    "prompt": "One separate photorealistic product illustration of flexible sweep paddle, RBT-130. Exact CAD reference fixes shape and proportions. Plain 80 x 8 x 15 mm rectangular platinum-cured silicone strip. Light ivory silicone. No mountings or holes. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "14",
+    "prompt": "Generate ONE separate product photograph-style concept illustration: 24 V geared agitator motor. Compact cylindrical BLDC gearmotor, metal body and a short output shaft, modest connector. Cylindrical main body approximately56mm diameter65mm long. Reference shows only the original simplified procurement envelope, not finished detail. Preserve general envelope proportions but illustrate plausible generic hardware details; these additions are PROPOSED, not a selected product. Whole isolated object, three-quarter view from above, off-white #f4f3ef studio background, soft shadow, realistic metal and polymer, square with margin. No brand, model, performance rating or dimension text. Small footer text exactly \"PROPOSED DETAIL\". No other separate objects.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "15",
+    "prompt": "One separate photorealistic product illustration of metering belt cassette, RBT-15. Exact CAD reference fixes shape and proportions. Preserve reference geometry: two long parallel 210 x100 mm thin PU belt runs spaced 24 mm overall. No rollers or motor. Pale cream food-contact PU. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "160",
+    "prompt": "One separate photorealistic product illustration of belt roller, RBT-160. Exact CAD reference fixes shape and proportions. Plain stainless cylindrical roller diameter20 length106 mm, no bearings, no shaft extensions, no grooves. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "17",
+    "prompt": "Generate ONE separate product photograph-style concept illustration: belt gearmotor. Compact geared motor with approximately55mm cubic gearbox envelope, output shaft and cable connector. Reference shows only the original simplified procurement envelope, not finished detail. Preserve general envelope proportions but illustrate plausible generic hardware details; these additions are PROPOSED, not a selected product. Whole isolated object, three-quarter view from above, off-white #f4f3ef studio background, soft shadow, realistic metal and polymer, square with margin. No brand, model, performance rating or dimension text. Small footer text exactly \"PROPOSED DETAIL\". No other separate objects.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "18",
+    "prompt": "One separate photorealistic product illustration of removable belt scraper, RBT-18. Exact CAD reference fixes shape and proportions. Plain thin rectangular 3 x96 x22 mm PEEK strip, warm ivory. No holes. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "20",
+    "prompt": "One separate photorealistic product illustration of tipping weigh cup, RBT-20. Exact CAD reference fixes shape and proportions. 96 mm diameter x60 mm tall open stainless cylindrical cup, thin1.5 mm wall and2 mm floor, no handle, hole, flange or spout. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "21",
+    "prompt": "Generate ONE separate product photograph-style concept illustration: single-point load cell. Compact anodized-aluminium single-point beam load cell approximately80x20x15mm, strain relief wire, plausible relieved flexure and mounting holes. Reference shows only the original simplified procurement envelope, not finished detail. Preserve general envelope proportions but illustrate plausible generic hardware details; these additions are PROPOSED, not a selected product. Whole isolated object, three-quarter view from above, off-white #f4f3ef studio background, soft shadow, realistic metal and polymer, square with margin. No brand, model, performance rating or dimension text. Small footer text exactly \"PROPOSED DETAIL\". No other separate objects.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "22",
+    "prompt": "One separate photorealistic product illustration of weighed cradle arm, RBT-22. Exact CAD reference fixes shape and proportions. Plain rectangular SS304 flat bar14 x78 x8 mm, no holes or mountings. Preserve topology without extra mechanical features. Whole object, three-quarter view from above, off-white #f4f3ef seamless studio background, soft shadow, realistic subtle material surface, square composition with margins. No text or other objects. Illustrative rendering, not a real prototype photograph.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "23",
+    "prompt": "Generate ONE separate product photograph-style concept illustration: weigh-cup tip servo. Compact geared position servo with approximately40x40x48mm main body, output shaft and electrical connector. Reference shows only the original simplified procurement envelope, not finished detail. Preserve general envelope proportions but illustrate plausible generic hardware details; these additions are PROPOSED, not a selected product. Whole isolated object, three-quarter view from above, off-white #f4f3ef studio background, soft shadow, realistic metal and polymer, square with margin. No brand, model, performance rating or dimension text. Small footer text exactly \"PROPOSED DETAIL\". No other separate objects.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "300",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "31",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "32",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "33",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "34",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "35",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "36",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "40",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "41",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "42",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "43",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "44",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "45",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "50",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "51",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "60",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "61",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "62",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "63",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "64",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-01",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-02",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-03",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-04",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-05",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-06",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-07",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-08",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-09",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-10",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-11",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-12",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-13",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-14",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-15",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "id": "P-16",
+    "prompt": "Initial batch: single component studio illustration on off-white background; source geometry preserved for CAD parts, proposed hardware footer for P-series.",
+    "mode": "built-in imagegen"
+  }
+]
