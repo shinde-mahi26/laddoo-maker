@@ -1,0 +1,19 @@
+{
+  "checks": [
+    "55 3D type mappings",
+    "exploded state",
+    "assembled state",
+    "play and pause",
+    "55 library entries",
+    "search and inspect screw",
+    "image load",
+    "mobile overflow",
+    "video metadata and seek"
+  ],
+  "video": {
+    "duration": 36,
+    "width": 1280,
+    "height": 720
+  },
+  "browserErrors": []
+}

@@ -1,0 +1,13 @@
+{
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "frames": 1080,
+  "duration": 36,
+  "types": 55,
+  "visualInstances": 88,
+  "browserErrors": [],
+  "bytes": 15741663,
+  "geometry": "46 source CAD instances plus illustrative proposed fittings",
+  "motion": "Cinematic paths, not collision validated"
+}
