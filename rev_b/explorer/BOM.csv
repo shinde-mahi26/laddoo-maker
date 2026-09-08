@@ -1,0 +1,47 @@
+﻿Instance ID,Type ID,Name,Assembly,Instance quantity,Type quantity,Material,CAD bounds X mm,CAD bounds Y mm,CAD bounds Z mm,Revision,Evidence,Mass source
+RB-01,RBT-01,Folded base pan,Frame,1,1,"SS304, 2 mm",600.0,400.0,2.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-020,RBT-020,Levelling foot,Frame,1,4,Silicone pad + SS304 M8 stud,38.0,38.0,25.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-021,RBT-020,Levelling foot,Frame,1,4,Silicone pad + SS304 M8 stud,38.0,38.0,25.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-022,RBT-020,Levelling foot,Frame,1,4,Silicone pad + SS304 M8 stud,38.0,38.0,25.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-023,RBT-020,Levelling foot,Frame,1,4,Silicone pad + SS304 M8 stud,38.0,38.0,25.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-030,RBT-030,Rear structural upright,Frame,1,2,SS304 tube 30 × 30 × 2,30.0,30.0,430.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-031,RBT-030,Rear structural upright,Frame,1,2,SS304 tube 30 × 30 × 2,30.0,30.0,430.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-04,RBT-04,Rear cross member,Frame,1,1,SS304 tube 30 × 30 × 2,550.0,30.0,30.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-05,RBT-05,Dry service enclosure,Electrical,1,1,"SS304, 2 mm",550.0,100.0,190.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-06,RBT-06,Food / drive partition,Frame,1,1,"SS304, 2 mm",560.0,2.0,240.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-10,RBT-10,Open hopper cassette,Dosing,1,1,"SS304, 1.2 mm",210.0,190.0,145.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-11,RBT-11,Hopper lid,Dosing,1,1,Clear food-contact polycarbonate,216.0,196.0,3.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-12,RBT-12,Slow bridge-breaker shaft,Dosing,1,1,SS316L,12.0,12.0,105.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-130,RBT-130,Flexible sweep paddle,Dosing,1,2,Platinum-cured food-contact silicone,80.0,8.0,15.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-131,RBT-130,Flexible sweep paddle,Dosing,1,2,Platinum-cured food-contact silicone,80.0,8.0,15.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-14,RBT-14,Agitator gearmotor,Drives,1,1,"Aluminium motor shell, isolated dry",56.0,56.0,65.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-15,RBT-15,Metering belt cassette,Dosing,1,1,"Food-contact PU endless belt, 2 mm",210.0,100.0,24.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-160,RBT-160,Belt roller,Dosing,1,2,SS304 tube / shaft,20.0,106.0,20.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-161,RBT-160,Belt roller,Dosing,1,2,SS304 tube / shaft,20.0,106.0,20.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-17,RBT-17,Belt gearmotor,Drives,1,1,Aluminium motor shell,55.0,55.0,55.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-18,RBT-18,Removable belt scraper,Dosing,1,1,Food-contact PEEK,3.0,96.0,22.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-20,RBT-20,Tipping weigh cup,Weighing,1,1,"SS304, 1.5 mm wall / 2 mm floor",96.0,96.0,60.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-21,RBT-21,Single point load cell,Weighing,1,1,"Anodized aluminium, dry cover",80.0,20.0,15.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-22,RBT-22,Weighed cradle arm,Weighing,1,1,SS304,14.0,78.0,8.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-23,RBT-23,Weigh tip actuator,Drives,1,1,"Geared servo, aluminium dry shell",40.0,40.0,48.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-300,RBT-300,Shuttle guide rail,Transfer,1,2,"Hardened steel, sealed dry shroud",270.0,12.0,12.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-301,RBT-300,Shuttle guide rail,Transfer,1,2,"Hardened steel, sealed dry shroud",270.0,12.0,12.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-31,RBT-31,Shuttle carriage,Transfer,1,1,SS304,100.0,116.0,8.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-32,RBT-32,Shuttle timing belt,Transfer,1,1,"Steel-cord polyurethane, dry",260.0,8.0,3.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-33,RBT-33,Shuttle motor,Drives,1,1,Closed-loop stepper / aluminium,42.0,48.0,42.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-34,RBT-34,Lower tilt bearing support,Transfer,1,1,SS304,16.0,16.0,54.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-35,RBT-35,Lower forming insert Ø46,Forming,1,1,Food-contact POM-C,56.0,56.0,27.7,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-36,RBT-36,Lower tip servo,Drives,1,1,"Geared servo, aluminium dry shell",50.0,48.0,50.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-40,RBT-40,Press support arm,Forming,1,1,SS304 rectangular section,32.0,180.0,30.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-41,RBT-41,Head linear actuator,Drives,1,1,24 V screw actuator / steel and aluminium,58.0,64.0,145.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-42,RBT-42,Head push rod,Forming,1,1,SS316L with sanitary bellows,16.0,16.0,40.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-43,RBT-43,Compliant head load module,Forming,1,1,SS304 + spring steel in sealed boot,40.0,40.0,16.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-44,RBT-44,Upper forming insert Ø46,Forming,1,1,Food-contact POM-C,56.0,56.0,27.7,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-45,RBT-45,Matched upper tool spacer,Forming,1,1,SS304,24.0,24.0,12.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-50,RBT-50,Output chute,Output,1,1,"SS304, 1.2–2 mm",118.05,105.0,70.65,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-51,RBT-51,Collection tray,Output,1,1,SS304,110.0,150.0,16.5,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-60,RBT-60,Front lift-off guard,Guarding,1,1,"Clear polycarbonate, 3 mm",584.0,3.0,430.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-61,RBT-61,User interface enclosure,Electrical,1,1,ABS PC dry enclosure,130.0,36.0,65.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-62,RBT-62,Emergency stop,Electrical,1,1,Red polymer + electrical switch,34.0,18.0,34.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-63,RBT-63,24 V power supply,Electrical,1,1,Enclosed AC/DC supply,180.0,55.0,42.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown
+RB-64,RBT-64,Control and safety module,Electrical,1,1,FR4 PCB + DIN rail modules,150.0,60.0,45.0,Rev-B concept / 2026-09-06,Existing concept CAD; includes unfinished procurement envelopes,unknown

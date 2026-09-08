@@ -1,0 +1,4 @@
+components:
+  - {id: A01-001, description: base pan, material: SS304, thickness: 2.0, status: PROVISIONAL}
+  - {id: A01-003, description: sanitary partition, material: SS304, thickness: 1.2, status: LOCKED}
+  - {id: A06-001, description: transfer chute, material: SS304, thickness: 1.0, status: PROVISIONAL}

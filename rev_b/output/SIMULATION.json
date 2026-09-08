@@ -1,0 +1,200 @@
+{
+  "status": "Concept engineering screens only; no physical validation or food rheology simulation",
+  "cad_parts": 46,
+  "cup_clearance": [
+    {
+      "diameter_mm": 36,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 38,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 40,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 42,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 44,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 46,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 48,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 50,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 52,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 54,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 56,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 58,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 60,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 62,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "diameter_mm": 64,
+      "max_rigid_insert_overlap_mm3": 0,
+      "support_food_intrusion_mm3": 0.0,
+      "pass": true
+    }
+  ],
+  "diameters": [
+    {
+      "mass_g": 30,
+      "density_g_cm3": 0.8,
+      "diameter_mm": 41.53
+    },
+    {
+      "mass_g": 30,
+      "density_g_cm3": 1,
+      "diameter_mm": 38.55
+    },
+    {
+      "mass_g": 30,
+      "density_g_cm3": 1.2,
+      "diameter_mm": 36.28
+    },
+    {
+      "mass_g": 50,
+      "density_g_cm3": 0.8,
+      "diameter_mm": 49.24
+    },
+    {
+      "mass_g": 50,
+      "density_g_cm3": 1,
+      "diameter_mm": 45.71
+    },
+    {
+      "mass_g": 50,
+      "density_g_cm3": 1.2,
+      "diameter_mm": 43.01
+    },
+    {
+      "mass_g": 100,
+      "density_g_cm3": 0.8,
+      "diameter_mm": 62.04
+    },
+    {
+      "mass_g": 100,
+      "density_g_cm3": 1,
+      "diameter_mm": 57.59
+    },
+    {
+      "mass_g": 100,
+      "density_g_cm3": 1.2,
+      "diameter_mm": 54.19
+    }
+  ],
+  "timing": [
+    {
+      "mass_g": 30,
+      "seconds": 18.1,
+      "pieces_min": 3.315,
+      "assumed_not_measured": true
+    },
+    {
+      "mass_g": 50,
+      "seconds": 19.1,
+      "pieces_min": 3.141,
+      "assumed_not_measured": true
+    },
+    {
+      "mass_g": 100,
+      "seconds": 21.6,
+      "pieces_min": 2.778,
+      "assumed_not_measured": true
+    }
+  ],
+  "press": {
+    "force_N": 150,
+    "lead_mm": 4,
+    "efficiency_assumed": 0.35,
+    "required_screw_torque_Nm": 0.272837045300392,
+    "speed_mm_s": 40,
+    "mechanical_input_W": 17.142857142857142,
+    "motor_budget_W": 50
+  },
+  "feed": {
+    "assumed_belt_force_N": 20,
+    "roller_radius_m": 0.01,
+    "service_factor": 2,
+    "required_output_torque_Nm": 0.4,
+    "specified_continuous_Nm": 1
+  },
+  "shuttle": {
+    "assumed_moving_mass_kg": 1.5,
+    "acceleration_m_s2": 0.5,
+    "friction_N": 8,
+    "pulley_radius_m": 0.00955,
+    "service_factor": 2,
+    "required_torque_Nm": 0.167125,
+    "specified_at_speed_Nm": 0.3
+  },
+  "electrical": {
+    "actuators_plus_controls_W": 195,
+    "supply_W": 240,
+    "reserve_fraction": 0.1875
+  },
+  "not_tested": [
+    "Food cohesion, adhesion, density or peanut crushing",
+    "Dose accuracy and hopper bridging",
+    "Full machine collision sweep, supports and cable clearances",
+    "FEA, fatigue, thermal and electrical compliance",
+    "Physical output, cleaning, reliability"
+  ]
+}

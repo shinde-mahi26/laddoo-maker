@@ -1,0 +1,5 @@
+components:
+  - {id: A03-900, description: generic agitator gearmotor, status: PURCHASE-DEPENDENT}
+  - {id: A04-900, description: generic 24V 100W-class BLDC gearmotor, status: PURCHASE-DEPENDENT}
+  - {id: A05-900, description: generic 1kg single-point load cell, status: PURCHASE-DEPENDENT}
+  - {id: A08-900, description: NEMA17-class stepper and T8x2 leadscrew, status: PURCHASE-DEPENDENT}

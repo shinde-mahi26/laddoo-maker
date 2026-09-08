@@ -1,0 +1,22 @@
+part_id,description,material,thickness_mm,area_mm2,volume_mm3,mass_kg,percent_total,category
+A01-001,Folded base pan,SS304,2.0,208536.0,417072.0,3.3366,15.97,STRUCTURAL
+A01-002,Folded rear structural spine,SS304,1.5,235200.0,352800.0,2.8224,13.51,STRUCTURAL
+A01-005,Left removable panel,SS304,1.0,240720.0,240720.0,1.9258,9.22,COSMETIC PANEL
+A01-006,Right removable panel,SS304,1.0,240720.0,240720.0,1.9258,9.22,COSMETIC PANEL
+A01-007,Rear service cover,SS304,1.0,239680.0,239680.0,1.9174,9.18,SERVICE PANEL
+A01-003,Sanitary partition with dry-side returns,SS304,1.2,158400.0,190080.0,1.5206,7.28,FOOD/WET BARRIER
+A01-009,Rounder C-frame weldment plates/crossmembers,SS304,4.0,41040.0,164160.0,1.3133,6.29,STRUCTURAL
+A01-004,Rounder sanitary deck,SS304,1.5,100731.3,151096.9,1.2088,5.79,FOOD/WET BARRIER
+A01-011,M8 feet/captive nut set,SS304,3.0,63358.7,190076.1,0.8,3.83,HARDWARE
+A01-009,Rounder C-frame weldment plates/crossmembers,SS304,4.0,21275.0,85100.0,0.6808,3.26,STRUCTURAL
+A01-009,Rounder C-frame weldment plates/crossmembers,SS304,4.0,21275.0,85100.0,0.6808,3.26,STRUCTURAL
+A01-008,Front service door/frame,SS304+PC,1.0,83400.0,83400.0,0.6672,3.19,SERVICE PANEL
+A01-014,Removable control fascia carrier,SS304,1.5,32480.7,48721.1,0.3898,1.87,SERVICE PANEL
+A01-016,A04 removable drive adapter carrier,SS304,3.0,14183.0,42548.9,0.3404,1.63,REINFORCEMENT
+A01-008P,A01-008P_inspection_panel,SS304,0,0,252000.0,0.3024,1.45,SERVICE PANEL
+A01-015,A03 removable drive adapter carrier,SS304,3.0,10883.0,32648.9,0.2612,1.25,REINFORCEMENT
+A01-012,Captive panel hardware set,SS,0,0,804.2,0.25,1.2,HARDWARE
+A01-017,Removable cable gland interface plate,SS304,2.0,14400.0,28800.0,0.2304,1.1,REINFORCEMENT
+A01-013,Structural fastener/dowel set,SS,0,0,1131.0,0.18,0.86,HARDWARE
+A01-010,Reinforcement pad set,SS304,2.0,4785.8,9571.6,0.0766,0.37,REINFORCEMENT
+A01-004R,Rounder sanitary deck,SS304,1.5,5194.1,7791.1,0.0623,0.3,FOOD/WET BARRIER

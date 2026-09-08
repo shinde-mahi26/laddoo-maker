@@ -1,0 +1,18 @@
+part_id,description,quantity,material,thickness,manufacturing_process,raw_blank_size,finished_mass_kg,make_or_buy,finish,drawing_number,revision,classification,notes
+A01-001,Folded base pan,1,SS304,2.0,laser cut + press brake + TIG corner closeout,486 x 436,3.337,MAKE,"SS304 2B, deburr/passivate as noted",D02-02,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-002,Folded rear structural spine,1,SS304,1.5,laser cut + press brake,430 x 650,2.822,MAKE,"SS304 2B, deburr/passivate as noted",D02-03,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-003,Sanitary partition with dry-side returns,1,SS304,1.2,laser cut + press brake + continuous wet TIG,400 x 440,1.521,MAKE,"SS304 2B, deburr/passivate as noted",D02-04,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-004,Rounder sanitary deck,1,SS304,1.5,laser cut + press brake + continuous wet TIG,400 x 290,1.271,MAKE,"SS304 2B, deburr/passivate as noted",D02-05,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-005,Left removable panel,1,SS304,1.0,laser cut + press brake,420 x 625,1.926,MAKE,"SS304 2B, deburr/passivate as noted",D02-06,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-006,Right removable panel,1,SS304,1.0,laser cut + press brake,420 x 625,1.926,MAKE,"SS304 2B, deburr/passivate as noted",D02-07,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-007,Rear service cover,1,SS304,1.0,laser cut + press brake,410 x 580,1.917,MAKE,"SS304 2B, deburr/passivate as noted",D02-08,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-008,Front service door/frame,1,SS304+PC,1.0,laser cut + press brake + hinge assembly,390 x 380,0.97,MAKE,"SS304 2B, deburr/passivate as noted",D02-09,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-009,Rounder C-frame weldment plates/crossmembers,1,SS304,4.0,laser cut + fixture TIG + finish machine,2x 160 x 350 + crossmembers,2.675,MAKE,"SS304 2B, deburr/passivate as noted",D02-10,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-010,Reinforcement pad set,1,SS304,2.0,laser cut + TIG,mixed,0.077,MAKE,"SS304 2B, deburr/passivate as noted",D02-11,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-011,M8 feet/captive nut set,1,SS304,3.0,buy feet + laser pads + TIG nuts,4x 55 x 55,0.8,MAKE,"SS304 2B, deburr/passivate as noted",D02-12,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-012,Captive panel hardware set,1,SS,0,BUY,n/a,0.25,BUY,"SS304 2B, deburr/passivate as noted",D02-13,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-013,Structural fastener/dowel set,1,SS,0,BUY,n/a,0.18,BUY,"SS304 2B, deburr/passivate as noted",D02-14,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-014,Removable control fascia carrier,1,SS304,1.5,laser cut + press brake,360 x 150,0.39,MAKE,"SS304 2B, deburr/passivate as noted",D02-15,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-015,A03 removable drive adapter carrier,1,SS304,3.0,laser cut + slots,110 x 100,0.261,MAKE,"SS304 2B, deburr/passivate as noted",D02-15,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-016,A04 removable drive adapter carrier,1,SS304,3.0,laser cut + slots,130 x 110,0.34,MAKE,"SS304 2B, deburr/passivate as noted",D02-15,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW
+A01-017,Removable cable gland interface plate,1,SS304,2.0,laser cut + provisional pilot holes,120 x 80,0.23,MAKE,"SS304 2B, deburr/passivate as noted",D02-15,Rev-A1/D02,PROTOTYPE_RELEASE_CANDIDATE,D02 DETAIL DESIGN - DFM REVIEW

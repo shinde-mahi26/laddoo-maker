@@ -1,0 +1,47 @@
+﻿ID,Part,Material,Group,Envelope mm,Specification
+01,Folded base pan,"SS304, 2 mm",Frame,600.0 x 400.0 x 2.0,600 × 400 mm footprint. Folded edges and welded corners; four M8 levelling feet. Detail bends and drain slope before fabrication.
+020,Levelling foot,Silicone pad + SS304 M8 stud,Frame,38.0 x 38.0 x 25.0,Four individually adjustable feet; target bench rating ≥40 kg. Pad and stud shown as one envelope.
+021,Levelling foot,Silicone pad + SS304 M8 stud,Frame,38.0 x 38.0 x 25.0,Four individually adjustable feet; target bench rating ≥40 kg. Pad and stud shown as one envelope.
+022,Levelling foot,Silicone pad + SS304 M8 stud,Frame,38.0 x 38.0 x 25.0,Four individually adjustable feet; target bench rating ≥40 kg. Pad and stud shown as one envelope.
+023,Levelling foot,Silicone pad + SS304 M8 stud,Frame,38.0 x 38.0 x 25.0,Four individually adjustable feet; target bench rating ≥40 kg. Pad and stud shown as one envelope.
+030,Rear structural upright,SS304 tube 30 × 30 × 2,Frame,30.0 x 30.0 x 430.0,TIG welded dry-side support. Frame deflection and weld fatigue require physical verification.
+031,Rear structural upright,SS304 tube 30 × 30 × 2,Frame,30.0 x 30.0 x 430.0,TIG welded dry-side support. Frame deflection and weld fatigue require physical verification.
+04,Rear cross member,SS304 tube 30 × 30 × 2,Frame,550.0 x 30.0 x 30.0,Continuous rear frame; weld fixture required.
+05,Dry service enclosure,"SS304, 2 mm",Electrical,550.0 x 100.0 x 190.0,"Rear compartment: 24 VDC 240 W PSU, motor drivers, controller, safety relay and terminals. Envelopes, not selected supplier mounting patterns."
+06,Food / drive partition,"SS304, 2 mm",Frame,560.0 x 2.0 x 240.0,Sealed rear partition. Moving penetrations require removable boots and catch drains; no bearing exposed over food.
+10,Open hopper cassette,"SS304, 1.2 mm",Dosing,210.0 x 190.0 x 145.0,Approximately 3.4 L geometric volume; 2 L working fill. Open throat 95 × 110 mm. Polished food side Ra target ≤0.8 µm. Removable radiused seams.
+11,Hopper lid,Clear food-contact polycarbonate,Dosing,216.0 x 196.0 x 3.0,Lift-off lid with coded interlock. No reach into belt throat while enabled; supplier food-contact declaration required.
+12,Slow bridge-breaker shaft,SS316L,Dosing,12.0 x 12.0 x 105.0,Quick-release shaft; external bearings and lip seals behind splash barrier. Intermittent 5–15 rpm; not a kneader.
+130,Flexible sweep paddle,Platinum-cured food-contact silicone,Dosing,80.0 x 8.0 x 15.0,Soft replaceable blade. Clearance must be tuned to avoid crushing motichoor and trapping peanuts.
+131,Flexible sweep paddle,Platinum-cured food-contact silicone,Dosing,80.0 x 8.0 x 15.0,Soft replaceable blade. Clearance must be tuned to avoid crushing motichoor and trapping peanuts.
+14,Agitator gearmotor,"Aluminium motor shell, isolated dry",Drives,56.0 x 56.0 x 65.0,"24 V BLDC, 20 W, output 5–15 rpm, ≥3 N·m continuous; torque-limited. Coupler and sanitary shaft seal procurement required."
+15,Metering belt cassette,"Food-contact PU endless belt, 2 mm",Dosing,210.0 x 100.0 x 24.0,210 × 100 mm cassette. 0–35 mm/s coarse/fine feed. Belt may smear besan or bridge sticky jaggery; bench trial is required. Detachable scraper and catch tray.
+160,Belt roller,SS304 tube / shaft,Dosing,20.0 x 106.0 x 20.0,Ø20 × 106 mm roller. External sealed bearings and tool-free tension release. Two rollers; return side contained.
+161,Belt roller,SS304 tube / shaft,Dosing,20.0 x 106.0 x 20.0,Ø20 × 106 mm roller. External sealed bearings and tool-free tension release. Two rollers; return side contained.
+17,Belt gearmotor,Aluminium motor shell,Drives,55.0 x 55.0 x 55.0,"24 V BLDC 25 W; output 0–35 rpm, ≥1 N·m continuous. 10 mm roller radius. Encoder, current limit, stopped belt while weighing."
+18,Removable belt scraper,Food-contact PEEK,Dosing,3.0 x 96.0 x 22.0,Replaceable thin edge; removes trailing smear into weigh cup. Maximum particle size initially ≤4 mm.
+20,Tipping weigh cup,"SS304, 1.5 mm wall / 2 mm floor",Weighing,96.0 x 96.0 x 60.0,"Ø96 × 60 mm, 0.40 L. Tares empty before every portion; complete tip cradle and motor sit on cell. 2 g / 3 g provisional accuracy targets, not validated."
+21,Single point load cell,"Anodized aluminium, dry cover",Weighing,80.0 x 20.0 x 15.0,"2 kg capacity; 24-bit ADC. Fixed end rear, live end cup cradle. Flexible slack wires, no hoses or stiff parallel force path. Overload stops set to cell datasheet."
+22,Weighed cradle arm,SS304,Weighing,14.0 x 78.0 x 8.0,"Tip motor and cup supported at live cell end. Bearings, fasteners, motor torque reaction all on weighed structure. Shown as concept bracket."
+23,Weigh tip actuator,"Geared servo, aluminium dry shell",Drives,40.0 x 40.0 x 48.0,"24 V geared position servo 15 W; ≥1.5 N·m continuous. Tip 150°, return home, then tare. No weighing during tip motion."
+300,Shuttle guide rail,"Hardened steel, sealed dry shroud",Transfer,270.0 x 12.0 x 12.0,MGN12-class rail envelope; stainless bellows/cover needed. Two blocks per rail. Travel 160 mm. Lubricant isolated from food.
+301,Shuttle guide rail,"Hardened steel, sealed dry shroud",Transfer,270.0 x 12.0 x 12.0,MGN12-class rail envelope; stainless bellows/cover needed. Two blocks per rail. Travel 160 mm. Lubricant isolated from food.
+31,Shuttle carriage,SS304,Transfer,100.0 x 116.0 x 8.0,Timing-belt drive under catch deck; belt clamp and limit flags require supplier detail.
+32,Shuttle timing belt,"Steel-cord polyurethane, dry",Transfer,260.0 x 8.0 x 3.0,"HTD 3M, 9 mm width procurement target; diagram represents belt run. 20-tooth pulley radius 9.55 mm. Tensioner and return run detailed at procurement."
+33,Shuttle motor,Closed-loop stepper / aluminium,Drives,42.0 x 48.0 x 42.0,"24 V NEMA17 closed-loop stepper; ≥0.3 N·m at 200 rpm, 30 W budget. 160 mm stroke in 1.2 s; accel 0.5 m/s². Home + end limit sensors."
+34,Lower tilt bearing support,SS304,Transfer,16.0 x 16.0 x 54.0,Rear support clear of every food cavity. Trunnion axis Z225; rear yoke and shaft must connect to cup exterior. CAD support envelope; final bearing and shaft fits need mechanical detail.
+35,Lower forming insert Ø46,Food-contact POM-C,Forming,56.0 x 56.0 x 27.7,Split spherical cavity. Exchange matched pairs Ø36–64 in 2 mm steps. 0.6 mm equator relief avoids hard rim collision; flash/seam and sticking require food trials.
+36,Lower tip servo,"Geared servo, aluminium dry shell",Drives,50.0 x 48.0 x 50.0,"24 V 20 W, ≥2 N·m continuous; 120° outward tilt to eject. Home sensor; upper head must be raised before tip. Flexible cable carrier."
+40,Press support arm,SS304 rectangular section,Forming,32.0 x 180.0 x 30.0,Rear support to press. 150 N design force. Deflection and resonances unverified; hard stop prevents insert contact.
+41,Head linear actuator,24 V screw actuator / steel and aluminium,Drives,58.0 x 64.0 x 145.0,"50 W budget; 150 N continuous at ≥40 mm/s; 95 mm stroke. 4 mm lead, efficiency assumption 0.35. Encoder + two limits + load feedback; self-locking not assumed."
+42,Head push rod,SS316L with sanitary bellows,Forming,16.0 x 16.0 x 40.0,"Rod retracts 95 mm. Bellows not represented. Anti-rotation guides, brake or positive retention required; do not rely on software to hold head."
+43,Compliant head load module,SS304 + spring steel in sealed boot,Forming,40.0 x 40.0 x 16.0,"0–200 N compression sensor; 5 N/mm spring, 2–16 mm usable deflection. Adjustable 10–80 N trial force, hard cutoff 120 N. Spring and sensor shown as envelope."
+44,Upper forming insert Ø46,Food-contact POM-C,Forming,56.0 x 56.0 x 27.7,"Matched upper cavity, lifted 95 mm in home pose. Static split-mould compression; no claim of hand-rolled texture. No orbital cup interference."
+45,Matched upper tool spacer,SS304,Forming,24.0 x 24.0 x 12.0,"Recipe-tool-specific spacer connects solid outside of upper cup to head module. Length 35 minus cavity radius, mm. Provided for every tool size; retained/keyed connection still requires detailing."
+50,Output chute,"SS304, 1.2–2 mm",Output,118.05 x 105.0 x 70.65,Open chute with sidewalls. Removable silicone liner softens drop. Ball exit/release needs sticky-mixture testing; no simulated adhesion model.
+51,Collection tray,SS304,Output,110.0 x 150.0 x 16.5,Lift-out tray. Stop on tray-full sensor. No collection reach into moving cup; front interlocked cover.
+60,Front lift-off guard,"Clear polycarbonate, 3 mm",Guarding,584.0 x 3.0 x 430.0,"Interlocked clear guard; concept panel, not a validated reach barrier. Hinges/latches and complete side guards required before powered operation."
+61,User interface enclosure,ABS PC dry enclosure,Electrical,130.0 x 36.0 x 65.0,"30 / 50 / 100 g presets; recipe, density, tare, jog, cleaning lockout. Splash-resistant membrane controls."
+62,Emergency stop,Red polymer + electrical switch,Electrical,34.0 x 18.0 x 34.0,Latching E-stop through safety relay cuts drive enable/power. Independent manual reset; no automatic restart. Exact safety circuit requires electrical engineering review.
+63,24 V power supply,Enclosed AC/DC supply,Electrical,180.0 x 55.0 x 42.0,"230 VAC 50 Hz input, 24 V 10 A / 240 W output. Target ≥20% electrical reserve. Earthed metal chassis, fused inlet, segregated mains. No heater or compressor."
+64,Control and safety module,FR4 PCB + DIN rail modules,Electrical,150.0 x 60.0 x 45.0,"Controller, ADC, servo drivers and monitored safety relay. Shown as procurement envelope; schematic and cable schedule in design document."

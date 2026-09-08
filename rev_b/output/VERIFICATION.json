@@ -1,0 +1,24 @@
+{
+  "cad_rebuild": "exit 0",
+  "javascript": "syntax passed",
+  "local_links": "all static links resolve",
+  "cad_parts": 46,
+  "tool_sets": 15,
+  "tool_solids": 45,
+  "sampled_mould_states": 105,
+  "mould_intersections": "passed",
+  "support_food_intrusion": "passed for 15 diameters",
+  "nominal_throughput": "2.78\u20133.31/min under stated assumptions",
+  "physical_function": "not tested",
+  "browser_checks": [
+    "30/50/100 g preset updates",
+    "Recipe cycle estimates",
+    "Component close-up and material metadata",
+    "Matching C58 lower STEP link",
+    "30 g motichoor cycle completed at 19.1 s",
+    "Exploded view",
+    "Assembly slider 20 then 46",
+    "Guard toggle",
+    "No browser error logs at inspection"
+  ]
+}

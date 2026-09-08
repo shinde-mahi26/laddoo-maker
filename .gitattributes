@@ -1,0 +1,3 @@
+# Preserve original generated CAD and tessellation bytes across platforms.
+rev_b/output/** -text
+rev_b/explorer/meshes/** -text

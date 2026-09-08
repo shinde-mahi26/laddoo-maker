@@ -1,0 +1,242 @@
+status: D02 DETAIL DESIGN - DFM REVIEW
+bend_radius_mm: 2.0
+k_factor_preliminary: 0.42
+parts:
+- part_id: A01-001
+  description: Folded base pan
+  quantity: 1
+  material: SS304
+  thickness: 2.0
+  manufacturing_process: laser cut + press brake + TIG corner closeout
+  raw_blank_size: 486 x 436
+  finished_mass_kg: 3.337
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-02
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-002
+  description: Folded rear structural spine
+  quantity: 1
+  material: SS304
+  thickness: 1.5
+  manufacturing_process: laser cut + press brake
+  raw_blank_size: 430 x 650
+  finished_mass_kg: 2.822
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-03
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-003
+  description: Sanitary partition with dry-side returns
+  quantity: 1
+  material: SS304
+  thickness: 1.2
+  manufacturing_process: laser cut + press brake + continuous wet TIG
+  raw_blank_size: 400 x 440
+  finished_mass_kg: 1.521
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-04
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-004
+  description: Rounder sanitary deck
+  quantity: 1
+  material: SS304
+  thickness: 1.5
+  manufacturing_process: laser cut + press brake + continuous wet TIG
+  raw_blank_size: 400 x 290
+  finished_mass_kg: 1.271
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-05
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-005
+  description: Left removable panel
+  quantity: 1
+  material: SS304
+  thickness: 1.0
+  manufacturing_process: laser cut + press brake
+  raw_blank_size: 420 x 625
+  finished_mass_kg: 1.926
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-06
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-006
+  description: Right removable panel
+  quantity: 1
+  material: SS304
+  thickness: 1.0
+  manufacturing_process: laser cut + press brake
+  raw_blank_size: 420 x 625
+  finished_mass_kg: 1.926
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-07
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-007
+  description: Rear service cover
+  quantity: 1
+  material: SS304
+  thickness: 1.0
+  manufacturing_process: laser cut + press brake
+  raw_blank_size: 410 x 580
+  finished_mass_kg: 1.917
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-08
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-008
+  description: Front service door/frame
+  quantity: 1
+  material: SS304+PC
+  thickness: 1.0
+  manufacturing_process: laser cut + press brake + hinge assembly
+  raw_blank_size: 390 x 380
+  finished_mass_kg: 0.97
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-09
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-009
+  description: Rounder C-frame weldment plates/crossmembers
+  quantity: 1
+  material: SS304
+  thickness: 4.0
+  manufacturing_process: laser cut + fixture TIG + finish machine
+  raw_blank_size: 2x 160 x 350 + crossmembers
+  finished_mass_kg: 2.675
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-10
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-010
+  description: Reinforcement pad set
+  quantity: 1
+  material: SS304
+  thickness: 2.0
+  manufacturing_process: laser cut + TIG
+  raw_blank_size: mixed
+  finished_mass_kg: 0.077
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-11
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-011
+  description: M8 feet/captive nut set
+  quantity: 1
+  material: SS304
+  thickness: 3.0
+  manufacturing_process: buy feet + laser pads + TIG nuts
+  raw_blank_size: 4x 55 x 55
+  finished_mass_kg: 0.8
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-12
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-012
+  description: Captive panel hardware set
+  quantity: 1
+  material: SS
+  thickness: 0
+  manufacturing_process: BUY
+  raw_blank_size: n/a
+  finished_mass_kg: 0.25
+  make_or_buy: BUY
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-13
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-013
+  description: Structural fastener/dowel set
+  quantity: 1
+  material: SS
+  thickness: 0
+  manufacturing_process: BUY
+  raw_blank_size: n/a
+  finished_mass_kg: 0.18
+  make_or_buy: BUY
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-14
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-014
+  description: Removable control fascia carrier
+  quantity: 1
+  material: SS304
+  thickness: 1.5
+  manufacturing_process: laser cut + press brake
+  raw_blank_size: 360 x 150
+  finished_mass_kg: 0.39
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-15
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-015
+  description: A03 removable drive adapter carrier
+  quantity: 1
+  material: SS304
+  thickness: 3.0
+  manufacturing_process: laser cut + slots
+  raw_blank_size: 110 x 100
+  finished_mass_kg: 0.261
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-15
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-016
+  description: A04 removable drive adapter carrier
+  quantity: 1
+  material: SS304
+  thickness: 3.0
+  manufacturing_process: laser cut + slots
+  raw_blank_size: 130 x 110
+  finished_mass_kg: 0.34
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-15
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
+- part_id: A01-017
+  description: Removable cable gland interface plate
+  quantity: 1
+  material: SS304
+  thickness: 2.0
+  manufacturing_process: laser cut + provisional pilot holes
+  raw_blank_size: 120 x 80
+  finished_mass_kg: 0.23
+  make_or_buy: MAKE
+  finish: SS304 2B, deburr/passivate as noted
+  drawing_number: D02-15
+  revision: Rev-A1/D02
+  classification: PROTOTYPE_RELEASE_CANDIDATE
+  notes: D02 DETAIL DESIGN - DFM REVIEW
